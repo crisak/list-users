@@ -1,0 +1,32 @@
+.row-table {
+    border-top-width: 1px;
+    border-top-style: solid;
+    border-top-color: rgba(0, 0, 0, 0.12);
+    display: flex;
+    transition: 0.3s;
+}
+
+.row-table:hover:not(.header) {
+    background-color: rgba(126, 126, 126, 0.112);
+}
+
+.row-table .col-table {
+    width: 33.33%;
+
+    font-size: 0.875rem;
+    line-height: 1.25rem;
+    font-weight: 400;
+    letter-spacing: 0.0178571429em;
+    text-decoration: inherit;
+    text-transform: inherit;
+    box-sizing: border-box;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    padding-right: 16px;
+    padding-left: 16px;
+    height: 40px;
+    color: rgba(0, 0, 0, 0.87);
+    display: flex;
+    align-items: center;
+}
+

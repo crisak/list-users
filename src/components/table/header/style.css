@@ -1,0 +1,16 @@
+.row-table.header {
+    border-top: none;
+    background-color: #007bff;
+}
+.row-table.dark {
+    border-top: none;
+    background-color: #001832;
+}
+.row-table .col-table.header {
+    font-weight: bold;
+    color: white;
+}
+.container-button {
+    text-align: right;
+    margin-bottom: 2rem;
+}
