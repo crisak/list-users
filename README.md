@@ -6,7 +6,7 @@ In the project directory, you can run:
 
 ### `npm i`
 
-Install tha dependencies
+Install the dependencies
 
 ### `npm start`
 
